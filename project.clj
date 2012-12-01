@@ -1,4 +1,4 @@
-(defproject darksky-clojure "1.0.0"
+(defproject darksky-clojure "1.0.1"
   :description "Clojure library for retrieving data from the Dark Sky API"
   :url "https://github.com/jdhollis/darksky-clojure"
   :license {:name "Eclipse Public License"

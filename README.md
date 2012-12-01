@@ -7,7 +7,7 @@ A Clojure library for retrieving data from the [Dark Sky API](http://darkskyapp.
 `darksky-clojure` is available as a Maven artifact from [Clojars](http://clojars.org/darksky-clojure):
 
 ```clojure
-[darksky-clojure 1.0.0]
+[darksky-clojure 1.0.1]
 ```
 
 ## Configuration
