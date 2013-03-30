@@ -2,6 +2,10 @@
 
 A Clojure library for retrieving data from the [Dark Sky API](http://darkskyapp.com/api/). The Dark Sky API lets you query for short-term precipitation forecast data at geographical points inside the United States.
 
+NOTE: `darksky-clojure` is now deprecated in favor of `forecast-clojure` (http://github.com/jdhollis/forecast-clojure)
+
+See http://blog.forecast.io/post/46290267206/announcing-forecast for more information.
+
 ## Installation
 
 `darksky-clojure` is available as a Maven artifact from [Clojars](http://clojars.org/darksky-clojure):
